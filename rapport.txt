@@ -1,0 +1,3 @@
+Git est un outil indispensable pour gerer les versions d'un projet, suivre les modifications et collaborer.
+Dans ce TP, j'ai appris a initialiser un depot Git, configurer l'identite, creer des commits et envoyer les fichiers de Google Colab vers GitHub.
+Projet biotechnologique : Valorisation des dechets domestiques (os de poulet CBP) pour la synthese d'esters et d'aromes alimentaires.
